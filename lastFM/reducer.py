@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""reducer.py"""
+"""mapper.py"""
 import sys
 
 h = {}
